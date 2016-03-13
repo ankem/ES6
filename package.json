@@ -1,0 +1,23 @@
+{
+  "name": "es6",
+  "version": "1.0.0",
+  "description": "learning es6 features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankem/ES6.git"
+  },
+  "keywords": [
+    "es6",
+    "features"
+  ],
+  "author": "raghava ankem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankem/ES6/issues"
+  },
+  "homepage": "https://github.com/ankem/ES6#readme"
+}
