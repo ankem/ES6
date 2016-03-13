@@ -1,0 +1,9 @@
+{
+  "name": "es6",
+  "version": false,
+  "dependencies": {},
+  "ambientDependencies": {
+    "chai": "registry:dt/chai#3.4.0+20160216071402",
+    "chance": "registry:dt/chance#0.7.3+20151030203433"
+  }
+}
