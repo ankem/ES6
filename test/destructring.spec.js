@@ -6,7 +6,7 @@ describe('destructuring', () => {
         expectedFirstName,
         expectedLastName;
 
-    before(() => {
+    beforeEach(() => {
         chance = new Chance(),
             expectedFirstName = chance.string(),
             expectedLastName = chance.string();
