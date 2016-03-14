@@ -1,5 +1,5 @@
 #ES6 Fundamentals
 Topics:
-   * [Destructuring Arrays](./destructuring.md)
+   * [Destructuring](./destructuring.md)
    * [Symbols](./symbols.md)
     
